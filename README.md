@@ -5,6 +5,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinkashi21" alt="sachinkashi21" /></a> </p>
 
+- 🔭 I’m currently working on **Heritage Connect**
+
+- 🌱 I’m currently learning **Three.js, blender**
+
+- 👯 I’m looking to collaborate on **OCR Tech: create online assessments**
+
+- 👨‍💻 All of my projects are available at [#](#)
+
+- 💬 Ask me about **DSA or MERN**
+
+- 📫 How to reach me **sachinkashi21@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fBz64yCTe7WLlXmqaaWGC3fo_X9ofFmk/view?usp=drive_link](https://drive.google.com/file/d/1fBz64yCTe7WLlXmqaaWGC3fo_X9ofFmk/view?usp=drive_link)
+
+- ⚡ Fun fact **I love solving real-world problems**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sachin_kashi_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachin_kashi_21" height="30" width="40" /></a>
