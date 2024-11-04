@@ -72,10 +72,10 @@
 ---
 
 <h3 align="center">🚀 Fun Projects</h3>
-<ul align="center">
-  <li>📌 <b>Heritage Connect</b> - Explore cultural heritage through tech</li>
-  <li>📌 <b>OCR Tech</b> - Simplifying online assessments with OCR</li>
-</ul>
+<div align="center">
+  - 📌 <b>Heritage Connect</b> - Explore cultural heritage through tech</li>
+  - 📌 <b>OCR Tech</b> - Simplifying online assessments with OCR</li>
+</div>
 
 ---
 
