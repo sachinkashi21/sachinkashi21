@@ -14,10 +14,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Heritage Connect**
-- 🌱 Learning **Three.js and Blender** for 3D projects
-- 👯 Open to collaborate on **OCR Tech: Online Assessment Creation**
-- 💬 Ask me about **DSA, MERN Stack Development, or Real-World Problem Solving**
+- 🔭 Currently working on **Chat Application**
+- 🌱 Learning **Video Streaming** for Video meet-up feature
+- 👯 Open to collaborate on **Solving Real-World problems**
+- 💬 Ask me about **MERN Stack, Technology and Solutions on Real-World Problems**
 - 📫 Reach me: **sachinkashi21@gmail.com**
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1EAwsnczN2XmreRUG_lD53ZvDkyyfzPkJ/view?usp=sharing)
 - ⚡ Fun fact: **I love bringing ideas to life through code!**
